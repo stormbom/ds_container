@@ -1,6 +1,6 @@
 # Modified Python Data Science container
 
-This a modified version of the Python Data Science container by [Andrei Maksimov](https://github.com/andreivmaksimov/python_data_science). The main difference is the inclusion of NLTK and its downloads, as well as use of token authentication in Jupyter; it is otherwise identical. For more information on the original, please see https://github.com/andreivmaksimov/python_data_science/blob/master/README.md
+This a modified version of the [Python Data Science container](https://github.com/andreivmaksimov/python_data_science) by [Andrei Maksimov](https://github.com/andreivmaksimov/). The main difference is the inclusion of NLTK and its downloads, as well as use of token authentication in Jupyter; it is otherwise identical. For more information on the original, please see https://github.com/andreivmaksimov/python_data_science/blob/master/README.md
 
 The Docker contains:
  - NumPy
