@@ -15,6 +15,7 @@ The Docker contains:
  - Keras
  - OpenCV 3
  - NLTK
+ - gensim
 
 The container is built on top of a [Ubuntu 16.04 Docker container](https://hub.docker.com/_/ubuntu/).
 
