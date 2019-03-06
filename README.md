@@ -25,7 +25,7 @@ Create a folder ```notebooks``` (for example) to store Jupyter Notebooks:
 mkdir notebooks
 ```
 
-Build Docker and name it ds_container (make sure you're building in the folder containing Dockerfile, and conf/.jupyter/jupyter_notebook_config.py:
+Build Docker and name it ds_container (make sure you're building in the folder containing Dockerfile, as well the file conf/.jupyter/jupyter_notebook_config.py):
 ```sh
 sudo docker build -t ds_container . 
 ```
